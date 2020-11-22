@@ -51,6 +51,11 @@
   color: purple;
 }
 
+.filter {
+  padding: 2%;
+  margin: 2%
+}
+
 ul {
   list-style-type: none;
   list-style: none;
@@ -134,7 +139,7 @@ ul {
 }
 
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
+} */
